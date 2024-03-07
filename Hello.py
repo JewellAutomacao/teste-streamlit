@@ -31,7 +31,7 @@ def run():
     st.markdown(
         """
         Construa a engenharia a partir dos dados das embalagens...
-        **👈 Select a demo from the sidebar** to see some examples
+        - **👈 Select a demo from the sidebar** to see some examples
 
         ### Grupo Marques Plastic
         - Página Web [marquesplastic.com.br](http://marquesplastic.com.br)
