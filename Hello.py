@@ -34,7 +34,7 @@ def run():
         **👈 Select a demo from the sidebar** to see some examples
 
         ### Grupo Marques Plastic
-        - Página Web [streamlit.io](http://marquesplastic.com.br)
+        - Página Web [marquesplastic.com.br](http://marquesplastic.com.br)
     """
     )
 
