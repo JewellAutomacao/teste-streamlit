@@ -20,29 +20,22 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="Teste Streamlit",
+        page_title="Engenharias",
         page_icon="👋",
     )
 
-    st.write("# Bem Vindo ao Streamlit! 👋")
+    st.write("# Gerador de Engenharias! 👋")
 
-    st.sidebar.success("Selecione uma Demostração abaixo.")
+    st.sidebar.success("Selecione uma Opção Acima.")
 
     st.markdown(
         """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
+        Construa a engenharia a partir dos dados das embalagens...
         **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
-        ### Want to learn more?
-        - Check out [streamlit.io](https://streamlit.io)
-        - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
-          forums](https://discuss.streamlit.io)
-        ### See more complex demos
-        - Use a neural net to [analyze the Udacity Self-driving Car Image
-          Dataset](https://github.com/streamlit/demo-self-driving)
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+
+        ### Grupo Marques Plastic
+        - Página Web [streamlit.io](http://marquesplastic.com.br/)
+
     """
     )
 
